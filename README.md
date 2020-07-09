@@ -19,4 +19,3 @@ Estudo realizado com JavaScript, CSS e ReactJS visando o aprendizado dessas tecn
 3. Execute `yarn start`.<br />
 4. Accesse `localhost:3000` no seu browser.<br />
 5. Execute `yarn build` para gerar uma build.<br />
-``
